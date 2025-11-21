@@ -2,29 +2,66 @@ A股
 上证
 深证
 
+A股
+人形机器人
 
+A股
+煤炭
+
+A股
+锂
+
+A股
+电池
+
+A股
+分红
+
+A股
+红利
+
+A股
 涨停股
 
+A股
 银行股
 
+A股
 消费板块
 
+A股
 券商板块
 
+A股
 科技板块
 
+A股
 +涨跌
 !预测
 
 
 人工智能
 AI  
+
+AI
 ChatGPT
+
+AI
 DeepSeek
+
+AI
 openai
+
+AI
 sora
+
+AI
 claude
+
+AI
 !广告
+
+AI
 !培训
 
 比亚迪
@@ -42,11 +79,8 @@ AMD
 
 谷歌
 google
-gemini
 
-chatgpt
-ai
-人工智能
+gemini
 
 自动驾驶
 
